@@ -1,4 +1,4 @@
-## Builing-Spam-filter-with-Naive-Bayes
+## Builing Spam Filter with Naive Bayes
 
 In this project, we're going to build a spam filter specifically directed at preventing mobile phone spam. Spam is most commonly associated with emails. Spamming, however, occurs in ways and environments that don't necessarily relate to emails:
 
