@@ -6,4 +6,4 @@ In this project, we're going to build a spam filter specifically directed at pre
 * An educational forum may be spammed with posts that are, in fact, ads.
 * Mobile phone users may receive unwanted and unsolicited SMS messages, usually about advertising.
 
-Our filter will analyze new messages and tell whether they are spam or not — this way, we might be able to prevent spam from bothering mobile phone users. To build the spam filter, we'll apply the multinomial Naive Bayes algorithm to a dataset of 5,572 SMS messages stored in `SMSSpamCollection.txt` file.
+The filter we'll build in this project will analyze new messages and tell whether they are spam or not — this way, we might be able to prevent spam from bothering mobile phone users. To build the spam filter, we'll apply the multinomial Naive Bayes algorithm to a dataset of 5,572 SMS messages stored in `SMSSpamCollection.txt` file.
